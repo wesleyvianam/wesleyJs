@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Wesley Viana
 
-- 🔭 Trabalho como Frente de caixa Sup. BH
+- 🔭 Desenvolvedor Fullstack Web na DFranquias
 - 📖 Cursando <strong>Analise e Desenvolvimento de Sistemas</strong> pela Estácio
 - 🌱 Estudante Front End / Back End / Mobile
 - 📫 Contate-me no email: wesley.vmartins.js@gmail.com
