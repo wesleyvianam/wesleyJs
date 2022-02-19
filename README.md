@@ -2,7 +2,7 @@
 
 - 🔭 Desenvolvedor Fullstack Web na DFranquias
 - 📖 Cursando <strong>Analise e Desenvolvimento de Sistemas</strong> pela Estácio
-- 🌱 Estudante Front End / Back End / Mobile
+- 🌱 Estudante Front End & Back End 
 - 📫 Contate-me no email: wesley.vmartins.js@gmail.com
  
  <div class="initial">
