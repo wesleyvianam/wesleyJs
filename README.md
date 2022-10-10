@@ -1,5 +1,5 @@
-## Wesley Viana
-A web Full stack developer
+## Wesley Martins
+web Full stack developer
 
 ---
 #### My Stack
