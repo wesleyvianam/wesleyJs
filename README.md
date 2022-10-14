@@ -7,6 +7,8 @@ web Full stack developer
 ![symfony](https://img.shields.io/badge/symfony-1f2430?style=for-the-badge&logo=symfony)
 ![typescript](https://img.shields.io/badge/typescript-1f2430?style=for-the-badge&logo=typescript)
 ![react](https://img.shields.io/badge/react-1f2430?style=for-the-badge&logo=react)
+![next](https://img.shields.io/badge/nextjs-1f2430?style=for-the-badge&logo=nextjs)
+
 ---
 #### Badges
 Code Wars: ![code wars badge](https://www.codewars.com/users/wesleyJs/badges/micro)
