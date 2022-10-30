@@ -5,9 +5,10 @@ web Full stack developer
 #### My Stack
 ![php](https://img.shields.io/badge/php-1f2430?style=for-the-badge&logo=php)
 ![symfony](https://img.shields.io/badge/symfony-1f2430?style=for-the-badge&logo=symfony)
+![node](https://img.shields.io/badge/node.js-1f2430?style=for-the-badge&logo=node.js)
 ![typescript](https://img.shields.io/badge/typescript-1f2430?style=for-the-badge&logo=typescript)
 ![react](https://img.shields.io/badge/react-1f2430?style=for-the-badge&logo=react)
-![next](https://img.shields.io/badge/nextjs-1f2430?style=for-the-badge&logo=nextjs)
+![next](https://img.shields.io/badge/next.js-1f2430?style=for-the-badge&logo=next.js)
 
 ---
 #### Badges
