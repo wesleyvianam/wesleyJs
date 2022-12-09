@@ -1,14 +1,16 @@
 ## Wesley Martins
-web Full stack developer
+Back-end Developer
 
 ---
 #### My Stack
 ![php](https://img.shields.io/badge/php-1f2430?style=for-the-badge&logo=php)
-![symfony](https://img.shields.io/badge/symfony-1f2430?style=for-the-badge&logo=symfony)
+![java](https://img.shields.io/badge/java-1f2430?style=for-the-badge&logo=java)
 ![node](https://img.shields.io/badge/node.js-1f2430?style=for-the-badge&logo=node.js)
-![typescript](https://img.shields.io/badge/typescript-1f2430?style=for-the-badge&logo=typescript)
-![react](https://img.shields.io/badge/react-1f2430?style=for-the-badge&logo=react)
-![next](https://img.shields.io/badge/next.js-1f2430?style=for-the-badge&logo=next.js)
+![symfony](https://img.shields.io/badge/symfony-1f2430?style=for-the-badge&logo=symfony)
+![spring](https://img.shields.io/badge/spring-1f2430?style=for-the-badge&logo=spring)
+![mysql](https://img.shields.io/badge/mysql-1f2430?style=for-the-badge&logo=mysql)
+![postgresql](https://img.shields.io/badge/postgresql-1f2430?style=for-the-badge&logo=postgresql)
+![mongo](https://img.shields.io/badge/mongodb-1f2430?style=for-the-badge&logo=mongodb)
 
 ---
 #### Badges
@@ -17,9 +19,8 @@ Code Wars: ![code wars badge](https://www.codewars.com/users/wesleyJs/badges/mic
 ---
 #### Git stats
 <div style="text-align: center;">
-    <img width="33%" height="200" src="https://github-readme-stats.vercel.app/api?username=wesleyjs&show_icons=true&theme=ayu-mirage">
-    <img width="33%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyJs&layout=compact&langs_count=7&theme=ayu-mirage">
-    <img width="33%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=wesleyjs&theme=ayu-mirage">
+    <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api?username=wesleyjs&show_icons=true&theme=ayu-mirage">
+    <img width="49%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=wesleyjs&theme=ayu-mirage">
  
 </div>
 
