@@ -19,7 +19,7 @@ Systems Analysis and Development
 #### Badges
 Code Wars: ![code wars badge](https://www.codewars.com/users/wesleyJs/badges/micro)
 
-<!-- ---
+---
 #### Git stats
 <div style="text-align: center;">
     <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api?username=wesleyvianam&show_icons=true&theme=ayu-mirage">
@@ -28,4 +28,4 @@ Code Wars: ![code wars badge](https://www.codewars.com/users/wesleyJs/badges/mic
 
  <div style="text-align: center"> 
   <a href="https://www.linkedin.com/in/wesley-martins-103430207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div> -->
+</div>
