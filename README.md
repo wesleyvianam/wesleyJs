@@ -1,5 +1,5 @@
 ## Wesley Martins
-Back-end Developer PHP
+Back-end Developer
 
 ---
 ### Studying
