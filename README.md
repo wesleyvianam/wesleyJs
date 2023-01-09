@@ -10,7 +10,6 @@ Systems Analysis and Development
 ![php](https://img.shields.io/badge/php-1f2430?style=for-the-badge&logo=php)
 ![javascript](https://img.shields.io/badge/javascript-1f2430?style=for-the-badge&logo=javascript)
 ![symfony](https://img.shields.io/badge/symfony-1f2430?style=for-the-badge&logo=symfony)
-![spring](https://img.shields.io/badge/spring-1f2430?style=for-the-badge&logo=spring)
 ![mysql](https://img.shields.io/badge/mysql-1f2430?style=for-the-badge&logo=mysql)
 ![mongo](https://img.shields.io/badge/mongodb-1f2430?style=for-the-badge&logo=mongodb)
 
