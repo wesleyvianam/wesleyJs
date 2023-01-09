@@ -8,8 +8,7 @@ Systems Analysis and Development
 ---
 #### My Stack
 ![php](https://img.shields.io/badge/php-1f2430?style=for-the-badge&logo=php)
-![java](https://img.shields.io/badge/java-1f2430?style=for-the-badge&logo=java)
-![node](https://img.shields.io/badge/node.js-1f2430?style=for-the-badge&logo=node.js)
+![javascript](https://img.shields.io/badge/javascript-1f2430?style=for-the-badge&logo=javascript)
 ![symfony](https://img.shields.io/badge/symfony-1f2430?style=for-the-badge&logo=symfony)
 ![spring](https://img.shields.io/badge/spring-1f2430?style=for-the-badge&logo=spring)
 ![mysql](https://img.shields.io/badge/mysql-1f2430?style=for-the-badge&logo=mysql)
