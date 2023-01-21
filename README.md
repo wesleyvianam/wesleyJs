@@ -26,5 +26,5 @@ Code Wars: ![code wars badge](https://www.codewars.com/users/wesleyJs/badges/mic
 </div>
 
  <div style="text-align: center"> 
-  <a href="https://www.linkedin.com/in/wesley-martins-103430207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/wesley-viana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
