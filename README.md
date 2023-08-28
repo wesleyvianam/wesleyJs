@@ -2,10 +2,6 @@
 Back-end Developer PHP
 
 ---
-### Studying
-Systems Analysis and Development
-
----
 #### My Stack
 ![php](https://img.shields.io/badge/php-1f2430?style=for-the-badge&logo=php)
 ![javascript](https://img.shields.io/badge/javascript-1f2430?style=for-the-badge&logo=javascript)
