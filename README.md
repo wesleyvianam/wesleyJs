@@ -1,11 +1,13 @@
-## Wesley Martins
-Back-end Developer PHP
+## Wesley Viana Martins
+Software Engineer
 
 ---
-#### My Stack
+#### My Stacks
 ![php](https://img.shields.io/badge/php-1f2430?style=for-the-badge&logo=php)
 ![javascript](https://img.shields.io/badge/javascript-1f2430?style=for-the-badge&logo=javascript)
+![laravel](https://img.shields.io/badge/laravel-1f2430?style=for-the-badge&logo=laravel)
 ![symfony](https://img.shields.io/badge/symfony-1f2430?style=for-the-badge&logo=symfony)
+![next.js](https://img.shields.io/badge/next.js-1f2430?style=for-the-badge&logo=next.js)
 ![mysql](https://img.shields.io/badge/mysql-1f2430?style=for-the-badge&logo=mysql)
 ![mongo](https://img.shields.io/badge/mongodb-1f2430?style=for-the-badge&logo=mongodb)
 
