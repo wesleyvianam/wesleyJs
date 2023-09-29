@@ -20,7 +20,7 @@ Code Wars: ![code wars badge](https://www.codewars.com/users/wesleyJs/badges/mic
 #### Git stats
 <div style="text-align: center;">
     <img width="33%" height="200" src="https://github-readme-stats.vercel.app/api?username=wesleyvianam&show_icons=true&theme=ayu-mirage">
-    <img width="33%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyvianam&layout=compact&langs_count=7&theme=ayu-mirage">
+    <img width="33%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyvianam&layout=compact&langs_count=6&theme=ayu-mirage">
     <img width="33%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=wesleyvianam&theme=ayu-mirage">
 </div>
 
