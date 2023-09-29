@@ -13,15 +13,15 @@ Software Engineer
 ![mongo](https://img.shields.io/badge/mongodb-1f2430?style=for-the-badge&logo=mongodb)
 
 ---
-#### Badges
-Code Wars: ![code wars badge](https://www.codewars.com/users/wesleyJs/badges/micro)
+#### Code Wars
+![code wars badge](https://www.codewars.com/users/wesleyJs/badges/micro)
 
 ---
 #### Git stats
 <div style="text-align: center;">
-    <img width="33%" height="200" src="https://github-readme-stats.vercel.app/api?username=wesleyvianam&show_icons=true&theme=ayu-mirage">
-    <img width="33%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyvianam&layout=compact&langs_count=6&theme=ayu-mirage">
-    <img width="33%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=wesleyvianam&theme=ayu-mirage">
+    <img width="38.7%" src="https://github-readme-stats.vercel.app/api?username=wesleyvianam&count_private=true&hide=contribs,issues&rank_icon=github&theme=ayu-mirage">
+    <img width="27.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyvianam&hide_progress=true&theme=ayu-mirage">
+    <img width="32.7%" src="https://github-readme-streak-stats.herokuapp.com/?user=wesleyvianam&theme=ayu-mirage">
 </div>
 
  <div style="text-align: center"> 
