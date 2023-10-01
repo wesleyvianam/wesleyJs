@@ -19,9 +19,9 @@ Software Engineer
 ---
 #### Git stats
 <div style="text-align: center;">
-    <img width="38.7%" src="https://github-readme-stats.vercel.app/api?username=wesleyvianam&count_private=true&hide=contribs,issues&rank_icon=github&theme=ayu-mirage">
-    <img width="27.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyvianam&hide_progress=true&theme=ayu-mirage">
-    <img width="32.7%" src="https://github-readme-streak-stats.herokuapp.com/?user=wesleyvianam&theme=ayu-mirage">
+    <img width="38.6%" src="https://github-readme-stats.vercel.app/api?username=wesleyvianam&count_private=true&hide=contribs,issues&rank_icon=github&theme=ayu-mirage">
+    <img width="27.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyvianam&hide_progress=true&theme=ayu-mirage">
+    <img width="32.6%" src="https://github-readme-streak-stats.herokuapp.com/?user=wesleyvianam&theme=ayu-mirage">
 </div>
 
  <div style="text-align: center"> 
