@@ -1,5 +1,5 @@
 ## Wesley Viana Martins
-Software Engineer
+Software Engineer | Back-end Developer
 
 ---
 #### My Stacks
